@@ -26,10 +26,6 @@
 - ![pbix3](https://github.com/DataSpieler12345/pbix-analytics/assets/45371372/157f0533-72bd-4e3a-a7da-634a2157dd76)
 - ![pbix4](https://github.com/DataSpieler12345/pbix-analytics/assets/45371372/29541fe0-2220-45af-b9b1-da67c4e0e1c0)
 
-
-
-
-
 I hope you enjoy exploring this data analytics project!
 
 Feel free to reach out if you have any questions or feedback. Happy analyzing!
