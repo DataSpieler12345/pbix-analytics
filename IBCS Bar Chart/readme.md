@@ -1,8 +1,7 @@
 # IBCS Column Chart
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![Pandas](https://img.shields.io/badge/pandas-1.0.0%2B-blue.svg)](https://pandas.pydata.org/)
+
 [![Power BI](https://img.shields.io/badge/Power%20BI-latest-yellow.svg)](https://powerbi.microsoft.com/)
 
 
