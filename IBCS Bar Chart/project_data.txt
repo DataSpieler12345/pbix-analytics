@@ -1,0 +1,32 @@
+:::::::::::  Data   :::::::::::::::
+
+Month Number , Month , 2022 , 2023 ,2023 Predictions
+1 , January , 2825.00 , 7140.00 , 
+2 , February , 5005.00 , 1614.00 , 
+3 , March , 3612.00 , 14752.00 , 
+4 , April , 2978.00 , 933.00 , 
+5 , May , 8662.00 , 6343.00 , 
+6 , June , 4750.00 , 8223.00 , 
+7 , July , 4433.00 , 6953.00 , 
+8 , August , 2062.00 , 9041.00 , 
+9 , September , 9329.00 , 10992.00 , 
+10 , October , 16243.00 , 9275.00 , 
+11 , November , 4011.00 ,  , 9690.10
+12 , December , 17885.00 ,  , 8483.35
+
+
+
+::::::::::   Measures   ::::::::::::
+
+DEFINE
+    MEASURE 'IBCS data'[DeltaPY] = IF(ISBLANK([FC]), [AC] - [PY], [FC] - [PY])
+    MEASURE 'IBCS data'[Max value] = IF(ISBLANK([FC]), 
+  if([AC]>[PY], [AC], [PY]),
+  if([PY]>[FC], [PY], [FC]))
+    MEASURE 'IBCS data'[FC] = SUM('IBCS data'[2023 Predictions])
+    MEASURE 'IBCS data'[PY] = SUM('IBCS data'[2022])
+    MEASURE 'IBCS data'[AC] = SUM('IBCS data'[2023])
+    MEASURE 'IBCS data'[Red Max] = If([DeltaPY] < 0, [Max value])
+    MEASURE 'IBCS data'[Green Max] = If([DeltaPY] > 0, [Max value])
+    MEASURE 'IBCS data'[Delta Color] = IF( [DeltaPY] < 0,  "#ff0000","#008e96")
+    MEASURE 'IBCS data'[DeltaPY %] = DIVIDE ( [DeltaPY], [PY])
