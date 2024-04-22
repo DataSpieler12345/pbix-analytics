@@ -1,0 +1,35 @@
+DATA:
+
+Country , Region , 2022 , 2023
+United States , North America , 8975632 , 9123459
+China , Asia , 9421543 , 8587312
+Japan , Asia , 7823874 , 7235981
+Germany , Europe , 6548910 , 6826789
+United Kingdom , Europe , 5412345 , 5689123
+France , Europe , 4623981 , 4965874
+Canada , North America , 3231567 , 3412789
+Australia , Oceania , 2865432 , 2648921
+India , Asia , 6912876 , 6310453
+Brazil , South America , 3621567 , 3856789
+South Korea , Asia , 2312765 , 2487654
+Russia , Europe , 1987234 , 1754321
+Italy , Europe , 4156789 , 4423567
+Spain , Europe , 3365432 , 3132654
+Mexico , North America , 2721987 , 2985432
+South Africa , Africa , 1432345 , 1678432
+Saudi Arabia , Asia , 1654321 , 1598765
+Turkey , Asia , 2213876 , 2109876
+Argentina , South America , 1821543 , 1754321
+Netherlands , Europe , 3812765 , 3753987
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+flag circle icons - free licence
+
+https://icons8.com/icon/set/flags/fluency
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+base64 converter
+
+Base64 converter🔥https://www.base64-image.de/
+
