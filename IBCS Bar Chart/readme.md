@@ -15,8 +15,7 @@
 
 ## 🚀 How to Use
 1. Clone the repository to your local machine.
-2. Run the Jupyter Notebook or Python script to execute the project.
-3. Explore the results and insights obtained from the data analysis.
+2. Explore the results and insights obtained from the data analysis.
 
 ## Images
 - ![pbix1](https://github.com/DataSpieler12345/pbix-analytics/assets/45371372/c0a9a98b-64a2-4e42-8ceb-4361585e2727)
