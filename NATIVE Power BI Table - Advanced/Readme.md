@@ -12,6 +12,8 @@
 
 ## The Project
 ![nat4](https://github.com/DataSpieler12345/pbix-analytics/assets/45371372/8ab1a3fc-b993-4042-8545-7296e5b4235f)
+![nat5](https://github.com/DataSpieler12345/pbix-analytics/assets/45371372/122ad246-e7a8-48ad-8950-4fe1e8d23947)
+
 
 
 ## 🚀 How to Use
